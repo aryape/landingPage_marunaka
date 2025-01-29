@@ -1,0 +1,84 @@
+body{
+    background-color: #4e0649!important ;
+    /* background-color: #210E14!important ; */
+  }
+  
+  div{
+    color: white!important;
+  }
+  
+  .bg-img{
+    width: 100vw;
+    object-fit: cover;
+    filter: brightness(0.7);
+    position: absolute;
+  }
+  
+  .text{
+    color: white;
+    font-family: montserrat;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  .card-text{
+    color: black;
+    font-family: montserrat;
+    font-weight: bold;
+  }
+  
+  .card-dir{
+    margin-top: -15px;
+    font-size: 12px;
+    color: black;
+    font-family: montserrat;
+    font-style: italic;
+  }
+  
+  .judul{
+    font-family: montserrat;
+    font-size: 36px;
+    font-weight: bold;
+    margin-left:20px;
+    color: white
+  }
+  
+  .subJudul{
+    font-family: montserrat;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left:20px;
+    color: white
+  }
+  
+  .penjelasan{
+    font-family: montserrat;
+    margin-left: 60px;
+    font-size:16px;
+  }
+  
+  #txtfooter{
+    font-family: montserrat;
+    font-size: 14px;
+    font-weight: lighter;
+  }
+  
+  #comingsoon{
+    background-color: #FF44A5!important;
+    border: none!important;
+    border-radius: 20px!important;
+    font-family: montserrat!important;
+    font-size: 16px!important;
+    margin-left: 450px!important;
+    width: 200px!important;
+  }
+  
+  #more{
+    background-color: #FF44A5!important;
+    border: none!important;
+    border-radius: 15px!important;
+    font-family: montserrat!important;
+    font-size: 16px!important;
+    width: 150px!important;
+    margin-left: 235px!important;
+  }
